@@ -17,6 +17,15 @@
 * 封装 chatglm 为 web api 的脚本
 
 
+## web 部署
+
+demo 参考：https://ai.greatdk.com/
+
+如果你已经完成了模型的部署(web.py)，可以直接参考使用 https://github.com/wdkwdkwdk/MoeChat 这个项目部署成一个线上聊天的 demo
+
+推荐使用 vercel 直接部署，贼方便：
+
+
 ### 需要注意的是：
 
 完整的训练过程十分繁琐，需要具备一定的代码能力，我并没有对训练方式做任何创新，如果你对训练过程有问题或感兴趣，推荐先了解这些微调训练的项目：

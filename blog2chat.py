@@ -1,5 +1,5 @@
 # 批量将文章转成可用于训练对话的数据集
-# 需注意，这里需要配合 chatgpt 使用，因为众所周知的原因，我将调用chatgpt的脚本放在了海外，并做成了封装接口形式，供服务器调用，详细 prompt 见 blog_handle_readme 文件
+# 需注意，这里需要配合 chatgpt 使用，因为众所周知的原因，我将调用chatgpt的脚本放在了海外，并做成了封装接口形式，供服务器调用，详细 prompt 见 blog_handle_readme.md 文件
 # by: wdkwdkwdk
 # Date: 2023-04-15
 
